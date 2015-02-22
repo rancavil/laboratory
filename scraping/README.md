@@ -1,4 +1,4 @@
-How use scraping_stackoverflow.py
+How use scraping stackoverflow.py
 ---------------------------------
 
 Clone the repository on your computer.
