@@ -1,9 +1,3 @@
-<<<<<<< HEAD
-Scraping Stackoverflow
-----------------------
-
-This is an example how make scraping from scratch.
-=======
 Scraping Stackowrflow
 =====================
 
@@ -28,4 +22,3 @@ representation.
          "views": 5,
          "votes": 2
      }
->>>>>>> origin
