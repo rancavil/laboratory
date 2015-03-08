@@ -1,7 +1,7 @@
 Scraping Stackowrflow
 =====================
 
-This is an example that show how make web scraping over, how use regular expressions with Python and programming 
+This is an example that show how make web scraping and how use regular expressions with Python and programming 
 just for fun ;-).
 
 The application read the HTML from stackoverflow.com, searches with the regular expressions patterns, and generates an json 
@@ -22,3 +22,21 @@ representation.
          "views": 5,
          "votes": 2
      }
+
+To use it.
+
+Clone the repository on your computer.
+
+      $ git clone https://github.com/rancavil/laboratory.git
+
+Go to the directory.
+
+      $ cd laboratory/scraping
+
+And execute.
+
+      $ ./scraping_stackoverflow.py
+
+Or.
+
+      $ python scraping_stackoverflow.py
